@@ -1,1 +1,3 @@
-# F1-Net
+# F1-Net: Deep Learning for Race Prediction
+
+F1-Net is a deep learning project focused on analyzing and predicting Formula 1 racing data. The project leverages advanced machine learning techniques to process telemetry, race results, and driver statistics to provide insights and forecasts. Whether you're a motorsport enthusiast, data scientist, or AI developer, this project offers a platform to experiment with F1-related predictive modeling.
